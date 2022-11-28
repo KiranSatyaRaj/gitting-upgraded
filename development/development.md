@@ -1,1 +1,5 @@
-Currently there is no information added about development.
+Frontend
+Backend
+Android/App
+iOS
+Blockchain
